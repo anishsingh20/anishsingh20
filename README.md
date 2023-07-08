@@ -1,26 +1,26 @@
 ![MasterHead](/demo.gif)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mrinal Walia</h1>
-<h3 align="center">git commit -am "Hello, I'm a Data Scientist & a Freelance Technical Writer"</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
+<h3 align="center">git commit -am "Hello, I'm a technologist & a Technical Writer"</h3>
 
-### Liked my Contributions:question::point_right: [Check my Portfolio](https://abhiwalia15.github.io/portfolio/) :star: :sparkles:
+### Liked my Contributions:question::point_right: [Check my Portfolio](https://www.gitshowcase.com/anishsingh20/) :star: :sparkles:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhiwalia15&theme=mereko)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="right" src="https://media2.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b76114f182fc3d6e824d25b55c5715bb05f85fb86bb0c&rid=giphy.gif&ct=g" alt="DS" width="314"/>
 
 
-### Who is Mrinal Walia:question::point_down:
+### Who is Anish Singh Walia:question::point_down:
 
-- 👨‍💻 All about me is at [My Website](https://abhiwalia15.github.io/portfolio/)
+- 👨‍💻 All about me is at [My Website](https://www.gitshowcase.com/anishsingh20)
 
-- 📝 I often write articles on [Open-Source Technology](https://medium.com/@waliamrinal/list/opensource-blogs-b68cf331d37d)
+- 📝 I often write articles on [Data science and Analytics](https://medium.com/@waliamrinal/list/opensource-blogs-b68cf331d37d), Cloud, DevOps, Troubleshooting issues and much more. 
 
 - 💬 Ask me about ``` pd.dataframe(columns=['Data Science', 'Machine Learning', 'Computer Vision', 'Data Privacy', 'Technical Writing', 'Open-Source']) ```
 
-- 🏋🏻‍♂️ Are you a fitness freak, consider reading my personal blog on Health, Fitness & Nutrition on [Medium](https://medium.com/@waliamrinal)
+- 🏋🏻‍♂️ Are you a fitness freak, especially calisthenics? Me too !. When I am not working, you can find me in the gym or outdoors running and doing anything which involves engaging your mind and body. 
 
-- 📫 How to reach me **waliamrinal@gmail.com**
+- 📫 How to reach me **waliaanish1997@gmail.com**
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1yzpIig8Yedn_pHO5F5y9jte3TnGjc3P7/view)
 
@@ -38,8 +38,8 @@
 - [Make Your Abdominal Muscles Standout By Using Each Of These Five Exercises](https://waliamrinal.medium.com/make-your-abdominal-muscles-standout-by-using-each-of-these-five-exercises-6a30b1497d30)
 <!-- BLOG-POST-LIST:END -->
 
-### What can I help with:question::cyclone:
-<code>git commit -am "Almost everything about Data Science, Technical Writing & GitHub!"</code> :grin:
+### What can I help with question::cyclone:
+<code>git commit -am "Almost everything about Cloud, DevOps, Linux, Data Science, Machine learning & AI,  R programming language,  Troubleshooting, Technical Writing & GitHub!"</code> :grin:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
