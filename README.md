@@ -22,24 +22,15 @@
 
 
 
-I am an experienced professional with about 4-6 years of experience and a strong background in cloud computing, virtualization, data science, Machine learning and AI, Hybrid cloud deployments, Containerization, micro-services, troubleshooting technical issues, and delivering exceptional customer experiences. 
+I am an experienced professional with about 4-6 years of experience and a strong background in cloud computing, virtualization, Linux, data science, Machine learning and AI, Hybrid cloud deployments, Containerization, micro-services, troubleshooting technical issues, and delivering exceptional customer experiences. 
 
 I have a vision and mission to educate others in any way possible and learn as much as possible. I write tutorials, blogs, and KBs and have developed curriculum, training plans and delivered technical sessions for new hires and my team in my work experience.
 
-I am also passionate about data analysis/science and enjoy sharing my knowledge as an avid technical writer and blogger on the above technologies. With strong Linux skills and expertise in API-based troubleshooting, I am a quick learner who values a growth mindset, synergy(interdependence), teamwork, and the Founder's Mentality. I actively seek opportunities to contribute my skills and drive innovation in a dynamic organization.
-
-
+I am also passionate about learning new technologies and enjoy sharing my knowledge as an avid technical writer and blogger on the above technologies. I am a quick learner who values a growth mindset, synergy(interdependence), teamwork, and the Founder's Mentality. I actively seek opportunities to contribute my skills and drive innovation in a dynamic organization.
 
 - 👨‍💻 More about me is at [My Website](https://www.gitshowcase.com/anishsingh20)
 
-- 📝 I often write articles on [Data science and Analytics](https://datascienceplus.com/author/anish-singh-walia/), Cloud, DevOps, Troubleshooting issues, Linux storage and networking Break-fix, containers, docker, k8s and much more. 
-
-
-
-
-
-
-
+- 📝 I often write articles on [Data science and Analytics](https://datascienceplus.com/author/anish-singh-walia/), Cloud, DevOps, Troubleshooting issues, Linux storage and networking Break-fix, containers, docker, k8s, and much more. 
 
 <pre><code>
         $ kubectl get all -n anish
@@ -64,6 +55,12 @@ I am also passionate about data analysis/science and enjoy sharing my knowledge 
 - 📫 How to reach me **waliaanish1997@gmail.com**
 
 - 📄 Know about my work & experiences @ [My Resume](https://drive.google.com/file/d/1GcO16F938bYuzwlyVPWcyKmWPbr_Aqzp/view?usp=sharing)
+
+---
+
+
+![DigitalOcean HM INTERVIEW (1)](https://github.com/anishsingh20/anishsingh20/assets/15655876/002fa161-5913-4172-be9c-1d3e4f61e39c)
+
 
 ---
 
