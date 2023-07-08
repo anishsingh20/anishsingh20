@@ -1,6 +1,6 @@
 ![MasterHead](/demo.gif)
 
----
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
 <h3 align="center">git commit -am "Hello, I'm a Cloud consultant and a Technical Writer"</h3>
@@ -13,7 +13,7 @@
 ### Liked my Contributions:question::point_right: [Check my Portfolio](https://www.gitshowcase.com/anishsingh20/) :star: :sparkles:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anishsingh20&theme=mereko)](https://github.com/ryo-ma/github-profile-trophy)
-<img align="right" src="https://media2.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b76114f182fc3d6e824d25b55c5715bb05f85fb86bb0c&rid=giphy.gif&ct=g" alt="DS" width="214"/>
+<img align="right" src="https://media2.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b76114f182fc3d6e824d25b55c5715bb05f85fb86bb0c&rid=giphy.gif&ct=g" alt="DS" width="114"/>
 
 
 
