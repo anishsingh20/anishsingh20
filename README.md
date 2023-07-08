@@ -58,8 +58,9 @@ I am also passionate about learning new technologies and enjoy sharing my knowle
 
 ---
 
+<h3 align="center"> My Values</h3>
 
-![DigitalOcean HM INTERVIEW (1)](https://github.com/anishsingh20/anishsingh20/assets/15655876/002fa161-5913-4172-be9c-1d3e4f61e39c)    |     ![DigitalOcean HM INTERVIEW (4)](https://github.com/anishsingh20/anishsingh20/assets/15655876/7e982a1e-122c-4b7c-a914-a478ec6f814c)
+![DigitalOcean HM INTERVIEW (1)](https://github.com/anishsingh20/anishsingh20/assets/15655876/002fa161-5913-4172-be9c-1d3e4f61e39c)    |           ![DigitalOcean HM INTERVIEW (4)](https://github.com/anishsingh20/anishsingh20/assets/15655876/7e982a1e-122c-4b7c-a914-a478ec6f814c)
 
 
 
