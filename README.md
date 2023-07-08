@@ -4,6 +4,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
 <h3 align="center">git commit -am "Hello, I'm a technologist & a Technical Writer"</h3>
+<h4 align="center">(Share your knowledge. It is a way to achieve immortality)</h4>
+<h4 align="center">- Dalai Lama</h4>
+
+---
 
 
 ### Liked my Contributions:question::point_right: [Check my Portfolio](https://www.gitshowcase.com/anishsingh20/) :star: :sparkles:
@@ -14,10 +18,17 @@
 
 
 ### Who is Anish Singh Walia:question::point_down:
+                                           
 
 
 
-I am an experienced professional with a strong background in cloud computing, virtualization, Hybrid cloud deployments, Containerization, micro-services, troubleshooting technical issues, and delivering exceptional customer experiences. I am passionate about data analysis and enjoy sharing my knowledge as an avid technical writer and blogger. With strong Linux skills and expertise in API-based troubleshooting, I am a quick learner who values a growth mindset, effective communication, and the Founder's Mentality. I actively seek opportunities to contribute my skills and drive innovation in a dynamic organization.
+I am an experienced professional with about 4-6 years of experience and a strong background in cloud computing, virtualization, data science, Machine learning and AI, Hybrid cloud deployments, Containerization, micro-services, troubleshooting technical issues, and delivering exceptional customer experiences. 
+
+I have a vision and mission to educate others in any way possible and learn as much as possible. I write tutorials, blogs, and KBs and have developed curriculum, training plans and delivered technical sessions for new hires and my team in my work experience.
+
+I am also passionate about data analysis/science and enjoy sharing my knowledge as an avid technical writer and blogger on the above technologies. With strong Linux skills and expertise in API-based troubleshooting, I am a quick learner who values a growth mindset, synergy(interdependence), teamwork, and the Founder's Mentality. I actively seek opportunities to contribute my skills and drive innovation in a dynamic organization.
+
+
 
 - 👨‍💻 More about me is at [My Website](https://www.gitshowcase.com/anishsingh20)
 
