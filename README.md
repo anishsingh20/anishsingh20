@@ -1,6 +1,6 @@
 ![MasterHead](/demo.gif)
 
-
+---
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
 <h3 align="center">git commit -am "Hello, I'm a technologist & a Technical Writer"</h3>
@@ -65,6 +65,8 @@ I am also passionate about data analysis/science and enjoy sharing my knowledge 
 
 - 📄 Know about my work & experiences @ [My Resume](https://drive.google.com/file/d/1GcO16F938bYuzwlyVPWcyKmWPbr_Aqzp/view?usp=sharing)
 
+---
+
 ### Few featured projects:question::rocket:
 <code>[Programming in CPP](https://github.com/anishsingh20/Programming-in-Cpp)</code>
 <code>[COVID-19 India Tracker in R](https://github.com/anishsingh20/COVID-19-INDIA-TRACKER)</code>
@@ -78,6 +80,7 @@ I am also passionate about data analysis/science and enjoy sharing my knowledge 
 
 And many more on my [profile](https://github.com/anishsingh20). Make sure to check the [repositories](https://github.com/anishsingh20?tab=repositories) section on my Github(https://github.com/anishsingh20) Profile.
 
+---
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
@@ -89,6 +92,8 @@ And many more on my [profile](https://github.com/anishsingh20). Make sure to che
 
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 ### Feel free to reach out to me if ?::cyclone:
 <code>git commit -am "Almost everything about Cloud, DevOps, Linux, Data Science, Machine learning & AI,  R programming language,  Troubleshooting, Technical Writing & GitHub!"</code> :grin:
 
@@ -98,7 +103,6 @@ And many more on my [profile](https://github.com/anishsingh20). Make sure to che
 <a href="https://www.instagram.com/cali_br20/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cali_br20" height="30" width="40" /></a>
 <a href="https://medium.com/@anishsinghwalia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@waliamrinal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UClrAR1q9DKBmIuEg4w6mJlw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclrar1q9dkbmiueg4w6mjlw" height="30" width="40" /></a>
-<a href="https://leetcode.com/anishsingh20/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anishsingh20/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/AnishSinghWalia/articles" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mrinalwalia/" height="30" width="40" /></a>
 </p>
 
