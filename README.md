@@ -1,34 +1,48 @@
 ![MasterHead](/demo.gif)
 
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
 <h3 align="center">git commit -am "Hello, I'm a technologist & a Technical Writer"</h3>
+
 
 ### Liked my Contributions:question::point_right: [Check my Portfolio](https://www.gitshowcase.com/anishsingh20/) :star: :sparkles:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anishsingh20&theme=mereko)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="right" src="https://media2.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b76114f182fc3d6e824d25b55c5715bb05f85fb86bb0c&rid=giphy.gif&ct=g" alt="DS" width="214"/>
 
-<img align="right" src="https://media2.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b76114f182fc3d6e824d25b55c5715bb05f85fb86bb0c&rid=giphy.gif&ct=g" alt="DS" width="314"/>
 
 
 ### Who is Anish Singh Walia:question::point_down:
 
-- 👨‍💻 All about me is at [My Website](https://www.gitshowcase.com/anishsingh20)
 
-- 📝 I often write articles on [Data science and Analytics](https://medium.com/@waliamrinal/list/opensource-blogs-b68cf331d37d), Cloud, DevOps, Troubleshooting issues and much more. 
+
+I am an experienced professional with a strong background in cloud computing, virtualization, Hybrid cloud deployments, Containerization, micro-services, troubleshooting technical issues, and delivering exceptional customer experiences. I am passionate about data analysis and enjoy sharing my knowledge as an avid technical writer and blogger. With strong Linux skills and expertise in API-based troubleshooting, I am a quick learner who values a growth mindset, effective communication, and the Founder's Mentality. I actively seek opportunities to contribute my skills and drive innovation in a dynamic organization.
+
+- 👨‍💻 More about me is at [My Website](https://www.gitshowcase.com/anishsingh20)
+
+- 📝 I often write articles on [Data science and Analytics](https://datascienceplus.com/author/anish-singh-walia/), Cloud, DevOps, Troubleshooting issues, Linux storage and networking Break-fix, containers, docker, k8s and much more. 
+
+
+
+
+
+
+
 
 <pre><code>
         $ kubectl get all -n anish
         ----------------------------------------
-        NAME | STATUS | AGE
+        NAME         |    STATUS     |     AGE
         ----------------------------------------
-        Data Nerd Running 6 years
-        CX Running 5 years
-        DevOps Running 4.6 year
-        Linux Running 5 years
-        Blogging Running 6 years
-        Virtualization Running 5 years
-        Bash/shell Running 4 years
-        R-scripting Running 5 years
+        Data-Nerd         Running         6 years
+        CX                Running         5 years
+        Troubleshoot      Running         4.6 year
+        Linux             Running         5 years
+        Blogging          Running         6 years
+        Virtualization    Running         5 years
+        Bash/shell        Running         4 years
+        R-scripting       Running         5 years
 
     
 </code></pre>
@@ -38,23 +52,33 @@
 
 - 📫 How to reach me **waliaanish1997@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1yzpIig8Yedn_pHO5F5y9jte3TnGjc3P7/view)
+- 📄 Know about my work & experiences @ [My Resume](https://drive.google.com/file/d/1GcO16F938bYuzwlyVPWcyKmWPbr_Aqzp/view?usp=sharing)
 
-### What are my featured projects:question::rocket:
-<code>[Stock Pricae Prediction](https://github.com/anishsingh20/AI-for-Finance-Stocks-real-time-analysis-)</code> 📈     
-<code>[Python for DS & ML-Bootcamp](https://github.com/anishsingh20/Python-for-Data-Science-and-Machine-Learning-Bootcamp)</code> 🐍  
-<code>[Document Scanner](https://github.com/anishsingh20/Document-Scanner-Using-OpenCV-Python)</code> 🖨     
+### Few featured projects:question::rocket:
+<code>[Programming in CPP](https://github.com/anishsingh20/Programming-in-Cpp)</code>
+<code>[COVID-19 India Tracker in R](https://github.com/anishsingh20/COVID-19-INDIA-TRACKER)</code>
+<code>[Real-time COVID-19 worldwide tracker in R](https://github.com/anishsingh20/Analyzing-Corona-Virus-Spread)</code>
+<code>[Time Series Analysis of Inflation Rates](https://github.com/anishsingh20/Time-series-analysis-of-Inflation-rates-using-ShinyDashboard)</code>   
+<br>
+<code>[Learning k8s for CKA](https://github.com/anishsingh20/Learning-k8s-for-CKA)</code> 
+<code>[Statistical Learning using R](https://github.com/anishsingh20/Statistical-Learning-using-R)</code> 
+<code>[Playing with Ansible](https://github.com/anishsingh20/Playing-With-Ansible)</code>
+<code>[AWK Programming](https://github.com/anishsingh20/AWK-Programming-Essentials)</code>
+
+And many more on my [profile](https://github.com/anishsingh20). Make sure to check the [repositories](https://github.com/anishsingh20?tab=repositories) section on my Github(https://github.com/anishsingh20) Profile.
+
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Open-Source Machine Learning Recommender System Projects With Resources](https://medium.com/becoming-human/top-5-open-source-machine-learning-recommender-system-projects-with-resources-50583c4007c3)
-- [Difference Between Semantic Segmentation and Instance Segmentation](https://blog.roboflow.com/difference-semantic-segmentation-instance-segmentation/)
-- [Microsoft’s Newest AI technology, “PeopleLens,” is Helping Blind People See](https://analyticsindiamag.com/microsofts-newest-ai-technology-peoplelens-is-helping-blind-people-see/)
-- [A Comprehensive Guide on Neo4j](https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-neo4j-graph-database/)
-- [Make Your Abdominal Muscles Standout By Using Each Of These Five Exercises](https://waliamrinal.medium.com/make-your-abdominal-muscles-standout-by-using-each-of-these-five-exercises-6a30b1497d30)
+<code>[GeeksForGeeks](https://auth.geeksforgeeks.org/user/AnishSinghWalia/articles)</code>
+<code>[DataSciencePlus](https://datascienceplus.com/author/anish-singh-walia/)</code>
+<code>[Medium](https://medium.com/@anishsinghwalia)</code>
+<code>[RPubs](http://rpubs.com/anish20)</code>
+<code>[.NEXT Nutanix](https://next.nutanix.com/members/anishwalia20-97373)</code>
+
 <!-- BLOG-POST-LIST:END -->
 
-### What can I help with question::cyclone:
+### Feel free to reach out to me if ?::cyclone:
 <code>git commit -am "Almost everything about Cloud, DevOps, Linux, Data Science, Machine learning & AI,  R programming language,  Troubleshooting, Technical Writing & GitHub!"</code> :grin:
 
 <h3 align="left">Connect with me:</h3>
@@ -62,10 +86,9 @@
 <a href="https://www.linkedin.com/in/anish-singh-walia-924529103/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-singh-walia" height="30" width="40" /></a>
 <a href="https://www.instagram.com/cali_br20/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cali_br20" height="30" width="40" /></a>
 <a href="https://medium.com/@anishsinghwalia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@waliamrinal" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/waliamrinal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/waliamrinal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UClrAR1q9DKBmIuEg4w6mJlw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclrar1q9dkbmiueg4w6mjlw" height="30" width="40" /></a>
 <a href="https://leetcode.com/anishsingh20/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anishsingh20/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mrinalwalia/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mrinalwalia/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/AnishSinghWalia/articles" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mrinalwalia/" height="30" width="40" /></a>
 </p>
 
 
