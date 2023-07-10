@@ -70,6 +70,7 @@ I am also passionate about learning new technologies and enjoy sharing my knowle
 ---
 
 ### Few featured projects:question::rocket:
+<code>[Personal ChatGPT Bot for MAC](https://github.com/anishsingh20/Personal-ChatGPT-Bot-For-Mac/)</code>
 <code>[Programming in CPP](https://github.com/anishsingh20/Programming-in-Cpp)</code>
 <code>[COVID-19 India Tracker in R](https://github.com/anishsingh20/COVID-19-INDIA-TRACKER)</code>
 <code>[Real-time COVID-19 worldwide tracker in R](https://github.com/anishsingh20/Analyzing-Corona-Virus-Spread)</code>
