@@ -69,7 +69,10 @@ I am also passionate about learning new technologies and enjoy sharing my knowle
 
 ---
 
-### Few featured projects:question::rocket:
+### My featured projects:question::rocket:
+<code>[Statistical Analysis Using R](https://github.com/anishsingh20/Statistical-Learning-using-R)</code>
+<code>[Time-series Analysis of Inflation Rates using Shiny in R](https://github.com/anishsingh20/Time-series-analysis-of-Inflation-rates-using-ShinyDashboard) </code>
+<code>[Statistical Analysis Using R](https://github.com/anishsingh20/Statistical-Learning-using-R)</code>
 <code>[Personal ChatGPT Bot for MAC](https://github.com/anishsingh20/Personal-ChatGPT-Bot-For-Mac/)</code>
 <code>[Programming in CPP](https://github.com/anishsingh20/Programming-in-Cpp)</code>
 <code>[COVID-19 India Tracker in R](https://github.com/anishsingh20/COVID-19-INDIA-TRACKER)</code>
