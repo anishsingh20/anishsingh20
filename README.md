@@ -1,5 +1,5 @@
-![bg1](https://github.com/anishsingh20/anishsingh20/assets/15655876/6624a26d-380b-42a8-a265-3dcd5259878e)
 
+![bg7](https://github.com/anishsingh20/anishsingh20/assets/15655876/671c6728-8dca-486d-a023-0a97406de33f)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
 <h3 align="center">git commit -am "Hello, I'm a Cloud consultant and a Technical Writer"</h3>
