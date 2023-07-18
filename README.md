@@ -1,11 +1,12 @@
-![MasterHead](/demo.gif)
-
+![bg1](https://github.com/anishsingh20/anishsingh20/assets/15655876/6624a26d-380b-42a8-a265-3dcd5259878e)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
 <h3 align="center">git commit -am "Hello, I'm a Cloud consultant and a Technical Writer"</h3>
 <h4 align="center">(Share your knowledge. It is a way to achieve immortality)</h4>
 <h4 align="center">- Dalai Lama</h4>
+
+
 
 ---
 
