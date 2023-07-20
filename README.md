@@ -1,5 +1,6 @@
 
-![Bg_LI_Black](https://github.com/anishsingh20/anishsingh20/assets/15655876/b56af022-4528-4bba-9bd9-7e7f88106ad7)
+![GIthub_bg_black](https://github.com/anishsingh20/anishsingh20/assets/15655876/b7dca6f0-4612-40c6-b7f2-d32a89395ef0)
+
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
