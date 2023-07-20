@@ -1,5 +1,6 @@
 
-![GIthub_bg_black](https://github.com/anishsingh20/anishsingh20/assets/15655876/b7dca6f0-4612-40c6-b7f2-d32a89395ef0)
+![Github1](https://github.com/anishsingh20/anishsingh20/assets/15655876/08f8c2d7-8068-4376-8f92-9f5d67fac938)
+
 
 
 
