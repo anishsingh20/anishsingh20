@@ -74,21 +74,20 @@ I am also passionate about learning new technologies and enjoy sharing my knowle
 ---
 
 ### My featured projects:question::rocket:
-<code>[Statistical Analysis Using R](https://github.com/anishsingh20/Statistical-Learning-using-R)</code>
-<code>[Time-series Analysis of Inflation Rates using Shiny in R](https://github.com/anishsingh20/Time-series-analysis-of-Inflation-rates-using-ShinyDashboard) </code>
-<code>[Statistical Analysis Using R](https://github.com/anishsingh20/Statistical-Learning-using-R)</code>
 <code>[Personal ChatGPT Bot for MAC](https://github.com/anishsingh20/Personal-ChatGPT-Bot-For-Mac/)</code>
+<code>[Power of AI](https://github.com/anishsingh20/Power-of-AI)</code>
+<code>[Statistical Analysis Using R](https://github.com/anishsingh20/Statistical-Learning-using-R)</code>
+<code>[LLaMa-2 WebApp chatBot in Python using Streamlit](https://github.com/anishsingh20/llama2-chatbot-streamlit-fly-webapp) </code>
 <code>[Programming in CPP](https://github.com/anishsingh20/Programming-in-Cpp)</code>
 <code>[COVID-19 India Tracker in R](https://github.com/anishsingh20/COVID-19-INDIA-TRACKER)</code>
 <code>[Real-time COVID-19 worldwide tracker in R](https://github.com/anishsingh20/Analyzing-Corona-Virus-Spread)</code>
-<code>[Time Series Analysis of Inflation Rates](https://github.com/anishsingh20/Time-series-analysis-of-Inflation-rates-using-ShinyDashboard)</code>   
-<br>
+
 <code>[Learning k8s for CKA](https://github.com/anishsingh20/Learning-k8s-for-CKA)</code> 
 <code>[Statistical Learning using R](https://github.com/anishsingh20/Statistical-Learning-using-R)</code> 
 <code>[Playing with Ansible](https://github.com/anishsingh20/Playing-With-Ansible)</code>
 <code>[AWK Programming](https://github.com/anishsingh20/AWK-Programming-Essentials)</code>
 
-And many more on my [profile](https://github.com/anishsingh20). Make sure to check the [repositories](https://github.com/anishsingh20?tab=repositories) section on my Github(https://github.com/anishsingh20) Profile.
+And many more on my [profile](https://github.com/anishsingh20). Make sure to check the [repositories](https://github.com/anishsingh20?tab=repositories) section on my [Github](https://github.com/anishsingh2) Profile.
 
 ---
 
