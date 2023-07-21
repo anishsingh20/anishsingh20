@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
-<h3 align="center">git commit -am "Hello, I'm a Customer-success engineer and a Technical Writer"</h3>
+<h3 align="center">git commit -am "Hello, I'm an AI enthusiast and a Technical Writer"</h3>
 <h4 align="center">(Share your knowledge. It is a way to achieve immortality)</h4>
 <h4 align="center">- Dalai Lama</h4>
 
