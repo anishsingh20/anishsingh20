@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
-<h3 align="center">git commit -am "Hello, I'm a Cloud consultant and a Technical Writer"</h3>
+<h3 align="center">git commit -am "Hello, I'm a Customer-success engineer and a Technical Writer"</h3>
 <h4 align="center">(Share your knowledge. It is a way to achieve immortality)</h4>
 <h4 align="center">- Dalai Lama</h4>
 
@@ -22,15 +22,14 @@
 
 
 ### Who is Anish Singh Walia:question::point_down:
-                                           
 
-
-
-I am an experienced professional with about 4-6 years of experience and a strong background in cloud computing, virtualization, Linux, data science, Machine learning and AI, Hybrid cloud deployments, Containerization, micro-services, troubleshooting technical issues, and delivering exceptional customer experiences. 
+I am an experienced professional with **about 4-6 years** of experience and a strong background in **customer-success/customer-experience, virtualization, Linux(shell scripting), Data Science, Machine learning and AI, R and Python programming, Hybrid cloud deployments, API technologies, Containerization, micro-services, troubleshooting technical issues, and delivering exceptional customer experiences**. 
 
 I have a vision and mission to educate others in any way possible and learn as much as possible. I write tutorials, blogs, and KBs and have developed curriculum, training plans and delivered technical sessions for new hires and my team in my work experience.
 
-I am also passionate about learning new technologies and enjoy sharing my knowledge as an avid technical writer and blogger on the above technologies. I am a quick learner who values a growth mindset, synergy(interdependence), teamwork, and the Founder's Mentality. I actively seek opportunities to contribute my skills and drive innovation in a dynamic organization.
+I am also passionate about learning new technologies and enjoy sharing my knowledge as an avid technical writer and blogger on the above technologies. 
+
+I am a quick learner who values a **growth mindset, effective communication, synergy(interdependence), teamwork, and the Founder's Mentality**. I actively seek opportunities to contribute my skills and drive innovation in a dynamic organization.
 
 - 👨‍💻 More about me is at [My Website](https://www.gitshowcase.com/anishsingh20)
 
@@ -62,7 +61,7 @@ I am also passionate about learning new technologies and enjoy sharing my knowle
 
 ---
 
-<h3 align="center"> My Values</h3>
+<h3 align="center"> My core values and my Niche</h3>
 
 ![DigitalOcean HM INTERVIEW (1)](https://github.com/anishsingh20/anishsingh20/assets/15655876/002fa161-5913-4172-be9c-1d3e4f61e39c)           |           ![DigitalOcean HM INTERVIEW (4)](https://github.com/anishsingh20/anishsingh20/assets/15655876/7e982a1e-122c-4b7c-a914-a478ec6f814c)                             |  ![writer1](https://github.com/anishsingh20/anishsingh20/assets/15655876/b136e939-ff27-4773-b534-506a2464baa1)
 
