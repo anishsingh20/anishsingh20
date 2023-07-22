@@ -127,10 +127,13 @@ And many more on my [profile](https://github.com/anishsingh20). Make sure to che
 </div>
 
 <div class="row">
-  <div class="column">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anishsingh20&theme=merko&count_private=true&show_icons=true&locale=en" alt="anishsingh20" style="width:45%" /></p>
-  </div>
-  <div class="column">
-    <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsingh20&theme=merko" alt="anishsingh20" style="width:45%"/></p>
-  </div>
+        <div class="row">
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishsingh20&show_icons=true&locale=en&layout=compact" alt="anishsingh20 style="width:45%"" /></p>
+        </div>
+          <div class="column">
+            <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anishsingh20&theme=merko&count_private=true&show_icons=true&locale=en" alt="anishsingh20" style="width:45%" /></p>
+          </div>
+          <div class="column">
+            <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsingh20&theme=merko" alt="anishsingh20" style="width:45%"/></p>
+          </div>
 </div>
