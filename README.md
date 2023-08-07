@@ -34,7 +34,7 @@ I am a quick learner who values a **growth mindset, effective communication, syn
 
 - 👨‍💻 More about me is at [My Website](https://www.gitshowcase.com/anishsingh20)
 
-- 📝 I often write articles on [Data science and Analytics](https://datascienceplus.com/author/anish-singh-walia/), Cloud, DevOps, Troubleshooting issues, Linux storage and networking Break-fix, containers, docker, k8s, and much more. 
+- 📝 I often write articles on [AI and ML](https://medium.com/@anishsingh20) , [Data science and Analytics](https://datascienceplus.com/author/anish-singh-walia/), Cloud, DevOps, Troubleshooting issues, Linux storage and networking Break-fix, containers, docker, k8s, and much more. 
 
 <pre><code>
         $ kubectl get all -n anish
@@ -93,6 +93,7 @@ And many more on my [profile](https://github.com/anishsingh20). Make sure to che
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
+<code>[Data InkSights Blog](https://medium.com/@anishsingh20)</code>
 <code>[GeeksForGeeks](https://auth.geeksforgeeks.org/user/AnishSinghWalia/articles)</code>
 <code>[DataSciencePlus](https://datascienceplus.com/author/anish-singh-walia/)</code>
 <code>[Medium](https://medium.com/@anishsinghwalia)</code>
