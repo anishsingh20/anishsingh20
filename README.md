@@ -99,6 +99,9 @@ And many more on my [profile](https://github.com/anishsingh20). Make sure to che
 <code>[Medium](https://medium.com/@anishsinghwalia)</code>
 <code>[RPubs](http://rpubs.com/anish20)</code>
 <code>[.NEXT Nutanix](https://next.nutanix.com/members/anishwalia20-97373)</code>
+<code>[LinkTree](https://linktr.ee/anishsingh20)</code>
+
+
 
 <!-- BLOG-POST-LIST:END -->
 
