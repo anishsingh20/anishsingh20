@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
-<h3 align="center">git commit -am "Hello, I'm an AI enthusiast, customer success/customer experience engineer and a Technical Writer"</h3>
+<h3 align="center">git commit -am "Hello, I'm an AI enthusiast, customer success/customer experience engineer, and currently working as a Senior Technical Writer"</h3>
 <h4 align="center">(Share your knowledge. It is a way to achieve immortality)</h4>
 <h4 align="center">- Dalai Lama</h4>
 
@@ -24,9 +24,9 @@
 
 ### Who is Anish Singh Walia:question::point_down:
 
-I am an experienced professional with **about 4-6 years** of experience and a strong background in **customer-success/customer-experience, virtualization, Linux(shell scripting), Data Science, Machine learning and AI, R and Python programming, Hybrid cloud deployments, API technologies, Containerization, micro-services, troubleshooting technical issues, and delivering exceptional customer experiences**. 
+I am an experienced professional with **about 5+ years** of experience and a strong background in **customer-success/customer-experience, virtualization, Linux(shell scripting), Data Science, Machine learning and AI, R and Python programming, Hybrid cloud deployments, API technologies, Containerization, micro-services, troubleshooting technical issues, and delivering exceptional customer experiences**. 
 
-I have a vision and mission to educate others in any way possible and learn as much as possible. I write tutorials, blogs, and KBs and have developed curriculum, training plans and delivered technical sessions for new hires and my team in my work experience.
+I have a vision and mission to educate others in any way possible and learn as much as possible. I write tutorials, blogs, and KBs and have developed curriculum and training plans and delivered technical sessions for new hires and my team in my work experience.
 
 I am also passionate about learning new technologies and enjoy sharing my knowledge as an avid technical writer and blogger on the above technologies. 
 
