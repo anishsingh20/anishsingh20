@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
-<h3 align="center">git commit -am "Hello, I'm an AI enthusiast, customer success/customer experience engineer, and currently working as a Senior Technical Writer"</h3>
+<h3 align="center">git commit -am "Hello, I'm an AI enthusiast, with over 5+ years of experience as a Cloud Consultant and SRE(DevOps) and 7+ years of experience as a freelance technical writer"</h3>
 <h4 align="center">(Share your knowledge. It is a way to achieve immortality)</h4>
 <h4 align="center">- Dalai Lama</h4>
 
