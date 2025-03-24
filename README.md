@@ -22,7 +22,7 @@
 
 
 
-### Who is Anish Singh Walia:question::point_down:
+### Who is Anish Singh Walia?
 
 I am an experienced professional with **about 5+ years** of experience and a strong background as an **Ex - SRE@Nutanix and Cloud Consultant@AMEX, where I handled AMEX India's Cloud and Infrastructure operations and was part of the Customer Success team. I have expertise in virtualization, Linux(shell scripting), Data Science, Machine learning and AI, R and Python programming, Hybrid cloud deployments, API technologies, Containerization, micro-services, troubleshooting technical issues, and delivering exceptional customer experiences**. 
 
@@ -65,10 +65,6 @@ I am a quick learner who values a **growth mindset, effective communication, syn
 <h3 align="center"> My core values and my Niche</h3>
 
 ![DigitalOcean HM INTERVIEW (1)](https://github.com/anishsingh20/anishsingh20/assets/15655876/002fa161-5913-4172-be9c-1d3e4f61e39c)           |           ![DigitalOcean HM INTERVIEW (4)](https://github.com/anishsingh20/anishsingh20/assets/15655876/7e982a1e-122c-4b7c-a914-a478ec6f814c)                             |  ![writer1](https://github.com/anishsingh20/anishsingh20/assets/15655876/b136e939-ff27-4773-b534-506a2464baa1)
-
-
-
-
 
 
 ---
@@ -142,3 +138,6 @@ And many more on my [profile](https://github.com/anishsingh20). Make sure to che
             <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsingh20&theme=merko" alt="anishsingh20" style="width:45%"/></p>
           </div>
 </div>
+---
+
+![My services](https://github.com/anishsingh20/anishsingh20/blob/main/2.png)
