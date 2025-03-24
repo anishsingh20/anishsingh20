@@ -1,5 +1,5 @@
 
-![BG_LI_NEW_BLACK](https://github.com/anishsingh20/anishsingh20/assets/15655876/5a2111b4-5a0f-4939-8d73-d51fa3faf85e)
+![BG_LI_NEW_BLACK](https://github.com/anishsingh20/anishsingh20/blob/main/New%20LinkedIn%20banner%202025.png)
 
 
 
