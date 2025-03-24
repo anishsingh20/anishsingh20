@@ -25,7 +25,7 @@
 
 ### Who is Anish Singh Walia?
 
-I am an experienced professional with **about 5+ years** of experience and a strong background as an **Ex - SRE@Nutanix and Cloud Consultant@AMEX, where I handled AMEX India's Cloud and Infrastructure operations and was part of the Customer Success team. I have expertise in virtualization, Linux(shell scripting), Data Science, Machine learning and AI, R and Python programming, Hybrid cloud deployments, API technologies, Containerization, micro-services, troubleshooting technical issues, and delivering exceptional customer experiences**. 
+I am an experienced professional with **about 6+ years** of experience and a strong background as an **Ex - SRE@Nutanix and Cloud Consultant@AMEX, where I handled AMEX India's Cloud and Infrastructure operations and was part of the Customer Success team. I have expertise in virtualization, Linux(shell scripting), Data Science, Machine learning and AI, R and Python programming, Hybrid cloud deployments, API technologies, Containerization, micro-services, troubleshooting technical issues, and delivering exceptional customer experiences**. 
 
 I have a vision and mission to educate others in any way possible and learn as much as possible. I write tutorials, blogs, and KBs and have developed curriculum and training plans and delivered technical sessions for new hires and my team in my work experience.
 
