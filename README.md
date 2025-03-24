@@ -1,8 +1,9 @@
 
 ![BG_LI_NEW_BLACK](https://github.com/anishsingh20/anishsingh20/blob/main/New%20LinkedIn%20banner%202025.png)
 
+---
 
-
+![My services](https://github.com/anishsingh20/anishsingh20/blob/main/2.png)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anish Singh Walia</h1>
@@ -140,4 +141,4 @@ And many more on my [profile](https://github.com/anishsingh20). Make sure to che
 </div>
 ---
 
-![My services](https://github.com/anishsingh20/anishsingh20/blob/main/2.png)
+
